@@ -1,0 +1,3 @@
+[submodule "android-submodule-test"]
+	path = android-submodule-test
+	url = https://github.com/Tatsuo-billion/android-submodule-test.git
