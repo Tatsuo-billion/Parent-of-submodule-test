@@ -14,6 +14,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import co.billionlabs.mylibrary1.DeviceHandler1
 import co.billionlabs.mylibrary1.VibrationController1
+import co.billionlabs.mylibrary1.SensorDataReceiver1
 import co.billionlabs.parentofsubmodule.ui.theme.ParentOfSubmoduleTheme
 
 class MainActivity : ComponentActivity() {

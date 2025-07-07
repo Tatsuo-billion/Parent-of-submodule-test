@@ -59,5 +59,5 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
     // test jitpack dependency
-    implementation("com.github.Tatsuo-billion:myLibrary1:v0.1.0-alpha")
+    implementation("com.github.Tatsuo-billion:myLibrary1:v0.1.0-alpha.1")
 }
